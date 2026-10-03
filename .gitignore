@@ -1,0 +1,14 @@
+# KCHS 원자료 (재배포 금지)
+*.sas7bdat
+*.sav
+*.dta
+data/
+
+# 분석 산출물
+*.rds
+*.RData
+*.Rhistory
+*.csv
+*.png
+.Rproj.user/
+.DS_Store
